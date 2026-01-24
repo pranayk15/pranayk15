@@ -8,15 +8,16 @@ I currently work with Python, SQL, machine learning, deep learning, and LLM-base
 
 📌 Areas of interest:
 
-Data Analytics & Machine Learning
+- Data Analytics & Machine Learning
 
-Applied AI & Deep Learning
+- Applied AI & Deep Learning
 
-Explainable AI
+- Explainable AI
 
-Building deployable data products
+- Building deployable data products
 
 🚀 Always learning, building, and improving.
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
