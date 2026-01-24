@@ -1,4 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I’m Pranay
+
+I’m an aspiring Data Scientist / Data Analyst who enjoys building practical, end-to-end data projects.
+
+I like working across the full data pipeline — from data preparation and analysis to modeling, explainability, and deployment — with an emphasis on clear thinking, clean implementation, and usability. I’m especially interested in applying machine learning and AI to solve real-world problems in a simple and effective way.
+
+I currently work with Python, SQL, machine learning, deep learning, and LLM-based applications, and I enjoy turning complex concepts into intuitive, usable tools.
+
+📌 Areas of interest:
+
+Data Analytics & Machine Learning
+
+Applied AI & Deep Learning
+
+Explainable AI
+
+Building deployable data products
+
+🚀 Always learning, building, and improving.
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
