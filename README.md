@@ -8,15 +8,15 @@ I currently work with Python, SQL, machine learning, deep learning, NLP, and LLM
 
 Most of my learning comes from building projects, experimenting, and refining ideas, and I’m always looking to improve both the technical and practical sides of what I build.
 
-Areas of interest
+**Areas of Interest**
 
-Data analytics and machine learning
+- Data analytics and machine learning
 
-Applied AI and deep learning
+- Applied AI and deep learning
 
-Explainable and interpretable models
+- Explainable and interpretable models
 
-Building deployable, user-focused data products
+- Building deployable, user-focused data products
 
 🚀 Always learning, building, and improving through hands-on work.
 
