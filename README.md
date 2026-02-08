@@ -1,22 +1,24 @@
 ## 👋 Hi, I’m Pranay
 
-I’m an aspiring Data Scientist / Data Analyst who enjoys building practical, end-to-end data projects.
+I enjoy building practical systems using data and machine learning that solve real problems and are easy for people to use.
 
-I like working across the full data pipeline — from data preparation and analysis to modeling, explainability, and deployment — with an emphasis on clear thinking, clean implementation, and usability. I’m especially interested in applying machine learning and AI to solve real-world problems in a simple and effective way.
+I like working across the entire data workflow — from understanding the problem and preparing data to building models, evaluating results, adding explainability, and deploying applications. I care about clear thinking, clean implementation, and usability, not just chasing higher accuracy.
 
-I currently work with Python, SQL, machine learning, deep learning, and LLM-based applications, and I enjoy turning complex concepts into intuitive, usable tools.
+I currently work with Python, SQL, machine learning, deep learning, NLP, and LLM-based tools, and I enjoy turning complex ideas into simple, intuitive solutions. I’m especially interested in applying AI where it adds real value, rather than over-engineering.
 
-📌 Areas of interest:
+Most of my learning comes from building projects, experimenting, and refining ideas, and I’m always looking to improve both the technical and practical sides of what I build.
 
-- Data Analytics & Machine Learning
+Areas of interest
 
-- Applied AI & Deep Learning
+Data analytics and machine learning
 
-- Explainable AI
+Applied AI and deep learning
 
-- Building deployable data products
+Explainable and interpretable models
 
-🚀 Always learning, building, and improving.
+Building deployable, user-focused data products
+
+🚀 Always learning, building, and improving through hands-on work.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
