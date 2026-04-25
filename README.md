@@ -10,17 +10,18 @@ Most of my learning comes from building projects, experimenting, and refining id
 
 **Areas of Interest**
 
-- Data analytics and machine learning
-- Applied AI and deep learning
-- Explainable and interpretable models
-- Building deployable, user-focused data products
+- Data analytics and machine learning  
+- Applied AI and deep learning  
+- Explainable and interpretable models  
+- Building deployable, user-focused data products  
 
 🚀 Always learning, building, and improving through hands-on work.
 
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
@@ -44,9 +45,6 @@ Most of my learning comes from building projects, experimenting, and refining id
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-</div>
+</p>
 
 ---
-
-- ⚡ Fun fact: ...
--->
