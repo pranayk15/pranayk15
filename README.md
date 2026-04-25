@@ -19,7 +19,7 @@ Most of my learning comes from building projects, experimenting, and refining id
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
@@ -47,4 +47,4 @@ Most of my learning comes from building projects, experimenting, and refining id
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
 </p>
 
----
+--- -->
